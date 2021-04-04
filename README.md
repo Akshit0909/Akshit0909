@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshit0909
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning Machiine Learning
+- 👀 I’m interested in Data Science/Development
+- 🌱 I’m currently trying to learn everything
 - 💞️ I’m looking to collaborate on data science
 - 📫 Reach me at: akshit.miglani09@gmail.com
 
