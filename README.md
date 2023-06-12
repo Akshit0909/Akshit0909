@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently trying to learn everything 🤣
-- 👯 I’m looking to collaborate with other people on data science
+- 👯 I’m looking to collaborate with other people on data science/computer science
 - 🥅 2023 Goals: Generative AI & MLOps Proficiency
 
 ### Connect with me:
